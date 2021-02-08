@@ -7,7 +7,7 @@ Custom Angular webapp rendering inside a WordPress installation as shortcode
 ```
 
 ### Folder structure
-- shortcode.ps
+- shortcode.php
 - styles.css
 - scripts.js
 
